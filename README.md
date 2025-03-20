@@ -19,4 +19,4 @@ Lastly, just start the zenoh router for local discovery!
 ros2 run rmw_zenoh_cpp rmw_zenohd
 ```
 
-Reference: [link](https://www.youtube.com/watch?v=fS0_rbQ6KKA)
+Reference: [link1](https://github.com/ros2/rmw_zenoh) [link2](https://www.youtube.com/watch?v=fS0_rbQ6KKA)
